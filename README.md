@@ -1,16 +1,16 @@
-Online Booking System
+# Online Booking System
 
-University Group Project
+University Group Project 
 
-Team Members
-Tanveer Muzamul
-  team 
+## Team Members
+- Tanveer Muzamul
+- [Add other team members names here]
 
-Project Description
+## Project Description
 A web-based booking system for university services built with Java, HTML, CSS, and MySQL.
 
-Technology Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Java Servlets  
-Database: MySQL
-Server: Apache Tomcat
+## Technology Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Java Servlets  
+- Database: MySQL
+- Server: Apache Tomcat
