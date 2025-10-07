@@ -1,0 +1,11 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Tomcat
+*.war
+
+# Database credentials
+*.properties
