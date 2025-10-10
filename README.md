@@ -12,7 +12,7 @@ A web-based booking system that allows customers to book services and administra
 
 ## 👥 Team Members
 - Ali
-- Sami  
+- Sami
 - Sani
 - Sumo
 
@@ -23,12 +23,21 @@ A web-based booking system that allows customers to book services and administra
 - **Tools:** Jira, GitHub, Eclipse
 
 ## 📋 Project Management
-- **Jira Board:** [Link to your Jira project]
+- **Jira Board:** https://student123.atlassian.net/jira/software/projects/OBS/boards/1
 - **Sprint Duration:** 2 weeks
 - **Methodology:** Scrum
 
 ## 🗓️ Sprint Plan
-- **Sprint 1:** Database & Authentication
-- **Sprint 2:** Service Management
-- **Sprint 3:** Booking Engine
-- **Sprint 4:** User Dashboard & Polish
+- **Sprint 1:** Database & Authentication (OBS-13, OBS-1, OBS-2, OBS-11)
+- **Sprint 2:** Service Management (OBS-4, OBS-5, OBS-3, OBS-12)
+- **Sprint 3:** Booking Engine (OBS-6, OBS-7, OBS-8)
+- **Sprint 4:** User Dashboard & Polish (OBS-9, OBS-10)
+
+## 🎯 Current Sprint
+**Sprint 1: Database & Authentication**
+- Database Setup (OBS-13)
+- User Registration (OBS-1)
+- User Login (OBS-2)
+- Homepage (OBS-11)
+
+## 📁 Project Structure
